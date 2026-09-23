@@ -4,6 +4,8 @@ Geoportal interativo para visualização da destinação de resíduos sólidos n
 
 🔗 **Acesse ao vivo:** https://mirianniz-debug.github.io/ResiduosSP/
 
+👤 **Parte do portfólio de:** https://mirianniz-debug.github.io/Portfolio/
+
 ## Sobre
 
 Mapa web para consulta espacial dos pontos/áreas de destinação de resíduos sólidos, servindo de apoio à gestão e ao planejamento ambiental.
